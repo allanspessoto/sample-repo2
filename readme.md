@@ -3,3 +3,5 @@
 * lista 2
 
 ### (do not necessarily read me. lol.)
+
+git is fun bla bla bla
